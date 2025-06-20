@@ -29,9 +29,6 @@ A complete online mobile store web application developed using PHP, HTML, CSS, J
 3. Import the `mobile_store.sql` database into **phpMyAdmin**.
 4. Visit `http://localhost/mobile_store/` in your browser.
 
-## 📷 Screenshots
-
-> You can add screenshots of your site here (home page, product view, admin panel, etc.)
 
 ## 📄 License
 
